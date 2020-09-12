@@ -14,5 +14,4 @@ let olMob = document.getElementById('mob')
 for (let i = 0; i < mobiles.length; i++) {
     let li = document.createElement('li')
     li.textContent = mobiles[i]
-    olMob.appendChild(li)
 }
