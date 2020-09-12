@@ -13,6 +13,9 @@ let olMob = document.getElementById('mob')
 
 for (let i = 0; i < mobiles.length; i++) {
     let li = document.createElement('li')
+    li.style.border = '1px solid red'
     li.textContent = mobiles[i]
     olMob.appendChild(li)
 }
+
+//homework day 1 - table with dynamic rows, columns name , price, qty and total
