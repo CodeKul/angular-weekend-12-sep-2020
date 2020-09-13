@@ -19,3 +19,7 @@ for (let i = 0; i < mobiles.length; i++) {
 }
 
 //homework day 1 - table with dynamic rows, columns name , price, qty and total
+
+var car = 'bmw'
+
+car = 10
