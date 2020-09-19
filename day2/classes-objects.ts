@@ -35,7 +35,7 @@ class Arduno extends Chip {
 
 }
 
-var chip = new ESPChip() // encapsulation -> object
+var chip = new ESPChip() // encapsulation -> object -> ORV
 chip.manu = 'asfs'
 
 chip.bleComm()
